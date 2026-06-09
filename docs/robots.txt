@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timsoonecraiap20.github.io/archive-2026-world-cup/sitemap.xml
